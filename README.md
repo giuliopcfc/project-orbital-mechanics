@@ -9,7 +9,7 @@ Content of the repository:
 - Slides.pdf: Slides used for the project presentation.
 
 AUTHORS:
-Lyle Campbell
-Giulio Pacifici 
-Luca Rizzieri 
-Davide Sisana
+- Lyle Campbell
+- Giulio Pacifici 
+- Luca Rizzieri 
+- Davide Sisana
